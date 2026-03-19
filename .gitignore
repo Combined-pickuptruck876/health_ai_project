@@ -1,0 +1,59 @@
+#  Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#  Virtual Environment
+env/
+venv/
+.venv/
+
+#  Environment variables (IMPORTANT )
+.env
+
+#  Jupyter Notebook
+.ipynb_checkpoints/
+
+#  VS Code
+.vscode/
+
+#  PyCharm
+.idea/
+
+#  Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+#  Logs
+*.log
+
+#  Database files
+*.sqlite3
+
+#  Model files (optional - if large)
+*.pkl
+*.joblib
+*.h5
+
+#  Streamlit cache
+.streamlit/
+
+#  Docker (optional)
+*.tar
+
+#  Build / dist
+build/
+dist/
+*.egg-info/
+
+#  API keys / secrets
+secrets.json
+config.yaml
+
+#  ML experiments (optional)
+mlruns/
+
+#  Dataset (optional if large)
+data/raw/
+data/processed/
